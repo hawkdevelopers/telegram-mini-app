@@ -2,6 +2,7 @@
 Hello, here I present a little about my development for TMA (Telegram Mini Apps)
 
 ![photo_4_2024-07-29_11-47-32](https://github.com/user-attachments/assets/2b824aea-9f94-48ad-a041-dfd597aa4a81)
+![photo_3_2024-07-29_11-47-32](https://github.com/user-attachments/assets/c740ec9f-e571-4bdd-9974-a95da4f67523)
 
 
 Telegram Mini App
