@@ -19,6 +19,6 @@ Telegram Mini App
 
 Do you want to have a similar system? Call me in the DM
 
-Test: https://t.me/hawk1994_bot/testemybag
+Demo: https://t.me/hawk1994_bot/testemybag
 
-https://t.me/redhawknfts
+Developer: https://t.me/redhawknfts
