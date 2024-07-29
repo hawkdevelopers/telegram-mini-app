@@ -1,4 +1,4 @@
-# telegram-mini-apps
+# telegram-mini-app
 Hello, here I present a little about my development for TMA (Telegram Mini Apps)
 
 Telegram Mini App
